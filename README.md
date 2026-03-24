@@ -23,22 +23,19 @@ All user data (name, PIN, balance) is **persisted in a text file**, so the infor
    ```bash
    g++ ATM.cpp -o ATM
 3. Run the executable:
-Linux/macOS: ./ATM
-Windows: ATM.exe
+**Linux/macOS:** ./ATM
+**Windows:** ATM.exe
 4. Follow the on-screen menu to interact with the ATM system
    
 
 ## Technologies Used
 
 **Language:** C++
+
 **File I/O:** fstream for saving/loading data
+
 **Data Structures:** Arrays for user storage
 
 ## Author
 Captain Pakistan
 
-
-
-
-
-C++ | Console Application | ATM System | File I/O | Banking Simulation | Beginner 
