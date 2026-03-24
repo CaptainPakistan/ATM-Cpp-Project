@@ -50,10 +50,9 @@ File I/O: fstream for saving/loading data
 
 Data Structures: Arrays for user storage
 
-C++ | Console Application | ATM System | File I/O | Banking Simulation | Beginner C++ Project
-
 ## Author
 Captain Pakistan
 
 
 
+C++ | Console Application | ATM System | File I/O | Banking Simulation | Beginner C++ Project
