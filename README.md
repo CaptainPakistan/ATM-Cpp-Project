@@ -5,12 +5,14 @@ A simple console-based ATM system written in C++. This project simulates basic b
 All user data (name, PIN, balance) is persisted in a text file, so the information remains even after the program closes.
 
 **This project demonstrates:**
+
 User account management
 Input validation and error handling
 File I/O for data persistence
 Basic console UI design in C++
 
 **Features**
+
 Sign Up: Create a new account with a unique 4-digit PIN
 Log In: Secure login with 3 attempts limit
 ATM Operations:
@@ -23,6 +25,7 @@ Delete accounts
 Data Persistence: All accounts and balances are saved to data.txt
 
 **Installation / Running Instructions**
+
 Clone or download the repository
 
 Compile the program:
