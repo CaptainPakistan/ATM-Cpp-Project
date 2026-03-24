@@ -11,7 +11,7 @@ Input validation and error handling
 File I/O for data persistence
 Basic console UI design in C++
 
-**Features**
+**Features:**
 
 Sign Up: Create a new account with a unique 4-digit PIN
 Log In: Secure login with 3 attempts limit
@@ -24,7 +24,7 @@ View all accounts
 Delete accounts
 Data Persistence: All accounts and balances are saved to data.txt
 
-**Installation / Running Instructions**
+**Installation / Running Instructions:**
 
 Clone or download the repository
 
@@ -43,6 +43,7 @@ ATM.exe
 Follow the on-screen menu to interact with the ATM system
 
 ## Technologies Used
+
 Language: C++
 File I/O: fstream for saving/loading data
 Data Structures: Arrays for user storage
