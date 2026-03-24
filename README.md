@@ -42,6 +42,13 @@ On Windows:
 ATM.exe
 Follow the on-screen menu to interact with the ATM system
 
+## Technologies Used
+Language: C++
+File I/O: fstream for saving/loading data
+Data Structures: Arrays for user storage
+
+C++ | Console Application | ATM System | File I/O | Banking Simulation | Beginner C++ Project
+
 ## Author
 Captain Pakistan
 
