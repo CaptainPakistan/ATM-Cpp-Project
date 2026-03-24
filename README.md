@@ -12,6 +12,7 @@ File I/O for data persistence
 Basic console UI design in C++
 
 **Features**
+
 Sign Up: Create a new account with a unique 4-digit PIN
 Log In: Secure login with 3 attempts limit
 ATM Operations:
@@ -24,6 +25,7 @@ Delete accounts
 Data Persistence: All accounts and balances are saved to data.txt
 
 **Installation / Running Instructions**
+
 Clone or download the repository
 
 Compile the program:
