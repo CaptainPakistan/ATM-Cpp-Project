@@ -11,5 +11,5 @@ It allows:
 1. Compile: `g++ ATM.cpp -o ATM`
 2. Run: `./ATM` (Linux/macOS) or `ATM.exe` (Windows)
 
-   **Author**
-   Captain Pakistan
+**Author**
+Captain Pakistan
